@@ -431,6 +431,7 @@ var LanguagesByExtension = map[string][]string{
 	".gypi":                {"Python"},
 	".h":                   {"C", "C++", "Objective-C"},
 	".h++":                 {"C++"},
+	".ha":                  {"Harelang"},
 	".hack":                {"Hack"},
 	".haml":                {"Haml"},
 	".haml.deface":         {"Haml"},
